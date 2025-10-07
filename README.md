@@ -1,4 +1,4 @@
-## About
-This is my first Git feature branch.
-Different conf line
+## Описание
+Просто практиковался с git из консоли.
+Ничего интересного ;)
 
